@@ -1,4 +1,4 @@
-# Ola! Eu sou Jobson, prazer em te conhecer. Seja bem vindo! 👋
+# Olá! Eu sou Jobson, prazer em te conhecer. Seja bem vindo, ao meu perfil! 👋
 - 🙅‍♂️ Não trabalho
 - 📘 Estudando Programação
 - 📪 Contate-me no e-mail: Jobsonsilva912@Gmail.com
